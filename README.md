@@ -3,7 +3,8 @@
 A compact cheatsheet from my 2023 Moscow State University thesis. I derive formulas for a Bayesian mortality model of a spouse couple (Freund-style frailty). This repository demonstrates my ability to reason about stochastic processes and apply Bayesian inference; it is not intended as a tutorial or a polished library. It is not expected that you will be able to understand anything at all.
 
 ## Reference:
-Freund, J. — “Love and death: A Freund model with frailty” (primary paper used in derivations).
+"Love and death: a freund model with frailty", C. Gourieroux and Y. Lu
+(primary paper used in derivations).
 
 
 ## Purpose & scope
